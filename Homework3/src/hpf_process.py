@@ -28,7 +28,6 @@ def idft(F):
         for y in range(N):
             f[x, y] = np.abs(np.sum(F * np.exp(2j * np.pi * (x * U / M + y * V / N))))
     f = f / (M * N)
-
     return f
 
 
