@@ -28,9 +28,9 @@
 
 使用语言
 
-- $Python 3.7.3$
+- Python 3.7.3
 
-- $requirements.txt$：
+- requirements.txt：
 
   ```
   numpy==1.16.1
@@ -38,4 +38,29 @@
   ```
 
 - 详细描述
+  
   - Homework2/README.md
+
+## Homework-3
+
+### 任务描述
+
+- 将 LENA 图像用 JPEG 方式压缩。
+- 将 LENA 图像用两种以上方法进行边缘提取，并分析比较结果。
+
+### 实现环境
+
+使用语言
+
+- Python 3.7.3
+
+- requirements.txt：
+
+  ```
+  numpy==1.16.1
+  opencv-python==4.1.1.26
+  ```
+
+- 详细描述
+
+  - Homework3/README.md
